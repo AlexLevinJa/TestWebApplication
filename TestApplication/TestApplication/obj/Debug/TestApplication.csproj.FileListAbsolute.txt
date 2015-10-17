@@ -1,0 +1,5 @@
+D:\Work\Web\0001 (ASP.NET)\TestApplication\TestApplication\bin\TestApplication.dll
+D:\Work\Web\0001 (ASP.NET)\TestApplication\TestApplication\bin\TestApplication.pdb
+D:\Work\Web\0001 (ASP.NET)\TestApplication\TestApplication\obj\Debug\TestApplication.csprojResolveAssemblyReference.cache
+D:\Work\Web\0001 (ASP.NET)\TestApplication\TestApplication\obj\Debug\TestApplication.dll
+D:\Work\Web\0001 (ASP.NET)\TestApplication\TestApplication\obj\Debug\TestApplication.pdb
